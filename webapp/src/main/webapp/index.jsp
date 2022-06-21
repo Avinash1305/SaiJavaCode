@@ -1,6 +1,5 @@
 <h1> Welcome to DevOps Project-2 !! </h1>
 <h2> By Avinash Mahapatra </h2>
-<h3> started on 21st-06-2022 </h3>
 <html>
 <head><title>First JSP</title></head>
 <body>
